@@ -1,10 +1,7 @@
-# Webpack Template
+# Project: Weather App
 
-This repository contains the basic webpack template as done in the Odin Project.
+In this project I will demonstrate my abilities too:
 
-Below are the specific links to the resources followed:
-
-- [JavaScript Course: Webpack](https://www.theodinproject.com/lessons/javascript-webpack)
-- [JavaScript Course: Revisiting Webpack](https://www.theodinproject.com/lessons/node-path-javascript-revisiting-webpack)
-- [Webpack’s “Production” guide](https://webpack.js.org/guides/production/)
-- [JavaScript Course: Linting](https://www.theodinproject.com/lessons/node-path-javascript-linting)
+- Call an api
+- Use async and await functions
+- Use an async function to display elements on the DOM
